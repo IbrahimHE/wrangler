@@ -9,11 +9,11 @@ sampler(n, N, mean, sd, lower = NULL, upper = NULL, seed = NULL)
 \arguments{
 \item{n}{number of sampled data to be returned from data with size (N), (mean), and (sd)}
 
-\item{N}{Total numbers to be genereted}
+\item{N}{Total numbers to be generated}
 
 \item{mean}{mean of generated random numbers (N)}
 
-\item{sd}{standard deviation of genereted random numbers (N)}
+\item{sd}{standard deviation of generated random numbers (N)}
 
 \item{lower}{minimum value possible in sampled data}
 
@@ -25,7 +25,7 @@ sampler(n, N, mean, sd, lower = NULL, upper = NULL, seed = NULL)
 returns sampled numbers of length (n)
 }
 \description{
-This function generates random data from certain parameters: sample size, total genereted pool pf data (N),  mean(N), sd(N), seed, minimum and maximum values
+This function generates random data from certain parameters: sample size, total generated pool pf data (N),  mean(N), sd(N), seed, minimum and maximum values
 }
 \examples{
 \dontrun{

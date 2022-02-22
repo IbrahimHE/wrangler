@@ -1,9 +1,9 @@
 #' @title Generate random sample from a random numbers
-#' @description This function generates random data from certain parameters: sample size, total genereted pool pf data (N),  mean(N), sd(N), seed, minimum and maximum values
+#' @description This function generates random data from certain parameters: sample size, total generated pool pf data (N),  mean(N), sd(N), seed, minimum and maximum values
 #' @param n number of sampled data to be returned from data with size (N), (mean), and (sd)
-#' @param N Total numbers to be genereted
+#' @param N Total numbers to be generated
 #' @param mean mean of generated random numbers (N)
-#' @param sd standard deviation of genereted random numbers (N)
+#' @param sd standard deviation of generated random numbers (N)
 #' @param seed the seed of normal random generation (for reproducibility)
 #' @param lower minimum value possible in sampled data
 #' @param upper maximum value possible in sampled data

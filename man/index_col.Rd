@@ -26,9 +26,9 @@ Get index of a dataframe column by name, or get a name by index
 Get index of a dataframe column by name, or get a name by index
 }
 \details{
-Provide either an id or a name to return a name or an id repectively
+Provide either an id or a name to return a name or an id respectively
 
-Provide either an id or a name to return a name or an id repectively
+Provide either an id or a name to return a name or an id respectively
 }
 \examples{
 \dontrun{

@@ -1,7 +1,6 @@
 #' @title Loading packages
-#' @param pkg specifiy packages names
+#' @param pkg specify packages names
 #' @param ... specify additional packages separated by ",".
-#'
 #' For example: "pkg1","pkg2"
 #' @return the grid layout, invisibly
 #' @author Ibrahim H. Elkhidir, originally

@@ -2,7 +2,7 @@
 % Please edit documentation in R/slice_col.R
 \name{slice_col}
 \alias{slice_col}
-\title{Slice a dataframe column by a seperator}
+\title{Slice a dataframe column by a separator}
 \usage{
 slice_col(
   data,
@@ -32,11 +32,11 @@ slice_col(
 
 \item{fill}{specify a value to fill the results NA with}
 
-\item{drop}{whether to drop the column specfified or not}
+\item{drop}{whether to drop the column specified or not}
 
 \item{nearcol}{whether to put splitted col near the original col}
 
-\item{addcol}{whether to paste colname on splitted columns}
+\item{addcol}{whether to paste column name on splitted columns}
 
 \item{fixed}{allowing for regular expression}
 

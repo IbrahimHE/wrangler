@@ -2,7 +2,7 @@
 #' @param data must be a dataframe
 #' @param column specify the column name to return the index
 #' @param id specify the index of wanted column to return the name
-#' @details Provide either an id or a name to return a name or an id repectively
+#' @details Provide either an id or a name to return a name or an id respectively
 #' @return the index of column name, or the column name of the index
 #' @author Ibrahim H. Elkhidir, originally
 #' @export
@@ -37,7 +37,7 @@ index_col <- function(data, column = NULL, id = NULL) {
 #' @param data must be a dataframe
 #' @param column specify the column name to return the index
 #' @param id specify the index of wanted column to return the name
-#' @details Provide either an id or a name to return a name or an id repectively
+#' @details Provide either an id or a name to return a name or an id respectively
 #' @return the index of column name, or the column name of the index
 #' @author Ibrahim H. Elkhidir, originally
 #' @export

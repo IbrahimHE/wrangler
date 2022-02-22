@@ -1,4 +1,4 @@
-#' @title Slice a dataframe column by a seperator
+#' @title Slice a dataframe column by a separator
 #' @description this function used to slice a column with a separator
 #' @param data specify a dataframe object
 #' @param column specify the column to be be sliced in quotation marks ""
@@ -87,7 +87,7 @@ slice_col_old <- function(data, column, sep, return_names = NULL, trans = NULL, 
 }
 
 
-#' @title Slice a dataframe column by a seperator
+#' @title Slice a dataframe column by a separator
 #' @description this function used to slice a column with a separator
 #' @param data specify a dataframe object
 #' @param split.col specify the column to be be sliced in quotation marks ""
@@ -95,9 +95,9 @@ slice_col_old <- function(data, column, sep, return_names = NULL, trans = NULL, 
 #' @param mode binary/value whether to return values or transform it into 1.
 #' @param fill specify a value to fill the results NA with
 #' @param type TRUE/FALSE whether to print the unique column names or not
-#' @param drop whether to drop the column specfified or not
+#' @param drop whether to drop the column specified or not
 #' @param fixed allowing for regular expression
-#' @param addcol whether to paste colname on splitted columns
+#' @param addcol whether to paste column name on splitted columns
 #' @param nearcol whether to put splitted col near the original col
 #' @param sort.col whether to sort the the resulting sliced columns or not
 #' @param decreasing if sorted, whether to be in descending or ascending

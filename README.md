@@ -1,6 +1,5 @@
 ## wrangler <img src="man/figures/logo.png" align="right" width="120" />
 
-[![DOI](https://zenodo.org/badge/DOI/10.6084/m9.figshare.19154300.v3.svg)](https://doi.org/10.6084/m9.figshare.19154300.v3)
 ![LGTM
 Alerts](https://img.shields.io/lgtm/alerts/github/IbrahimHE/wrangler)
 ![GitHub language

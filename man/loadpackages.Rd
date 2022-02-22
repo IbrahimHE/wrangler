@@ -7,10 +7,9 @@
 loadpackages(pkg, ...)
 }
 \arguments{
-\item{pkg}{specifiy packages names}
+\item{pkg}{specify packages names}
 
 \item{...}{specify additional packages separated by ",".
-
 For example: "pkg1","pkg2"}
 }
 \value{

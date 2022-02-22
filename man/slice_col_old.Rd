@@ -2,7 +2,7 @@
 % Please edit documentation in R/slice_col.R
 \name{slice_col_old}
 \alias{slice_col_old}
-\title{Slice a dataframe column by a seperator}
+\title{Slice a dataframe column by a separator}
 \usage{
 slice_col_old(
   data,
