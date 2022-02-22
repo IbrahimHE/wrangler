@@ -39,7 +39,7 @@ August 10, 2021
 **Ibrahim H. Elkhidir** would like to thank `Mohammed Nimmir`, `Mohammed S. Muneer`,`Shahd S. Ali`, `Waad K. Shanan`,`Hussein Jaafar`, `Duaa M.` for their support and feedback to create this web application.
 
 #### Authors
-<img width="200" src="inst/shiny/www/Author.png?raw=TRUE" alt="Author logo" align="left">  
+<img width="200" src="man/figures/Author.png?raw=TRUE" alt="Author logo" align="left">  
   
 **Ibrahim H. Elkhidir** wrote the first version of this application; this application is a fork of the original which can be found [here](https://github.com/IbrahimHE/wrangler).  
 **Ibrahim H. Elkhidir** maintains this application and has authored new features.

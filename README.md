@@ -57,7 +57,7 @@ statistical methods related to this project.
 
 #### Authors
 
-<img width="200" src="inst/shiny/www/Author.png?raw=TRUE" alt="Author logo" align="left">
+<img width="200" src="man/figures/Author.png?raw=TRUE" alt="Author logo" align="left">
 
 **Ibrahim H. Elkhidir** wrote the first version of this application;
 this application is a fork of the original which can be found

@@ -2,8 +2,8 @@ Package: wrangler
 Type: Package
 Title: Data Wrangling (by Ibrahim Hassan)
 Version: 0.1.0
-Date: 2021-12-18
-Author: Ibrahim H Elkhidir
+Date: 2022-02-22
+Author: Ibrahim H. Elkhidir
 Maintainer: Ibrahim H. Elkhidir <Ibrahim_hassan12@yahoo.com>
 Description: Manage and wrangle data . A variety of useful 
     function are defined.
@@ -11,9 +11,11 @@ Imports:
     splitstackshape, dplyr, magrittr, reshape2, ggplot2movies,
     ggplot2, utils, grDevices, grid, stats, plyr, data.table, glue
 Depends: R (>= 3.6)
-License: file LICENSE
+License: LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 Suggests: 
+    testthat (>= 3.0.0),
     knitr,
     rmarkdown
+Config/testthat/edition: 3
