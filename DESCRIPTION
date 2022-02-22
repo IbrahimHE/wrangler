@@ -11,7 +11,7 @@ Imports:
     splitstackshape, dplyr, magrittr, reshape2, ggplot2movies,
     ggplot2, utils, grDevices, grid, stats, plyr, data.table, glue
 Depends: R (>= 3.6)
-License: LICENSE
+License: GPL-3
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 Suggests: 
